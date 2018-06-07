@@ -1,0 +1,762 @@
+@media screen and (max-width : 1220px) {
+
+}
+@media screen and (max-width : 1169px) {
+
+}
+@media screen and (max-width : 1080px) {
+
+}
+@media screen and (max-width : 1024px) {
+
+}
+@media screen and (max-width : 990px) {
+
+}
+@media screen and (max-width : 900px) {
+
+}
+@media screen and (max-width : 850px) {
+
+}
+@media screen and (max-width : 800px) {
+
+}
+@media screen and (min-width : 481px) and (max-width : 767px) {
+	
+.bg-background {
+	padding: 20px 0px !important;
+}
+.img-block img {
+    width: 355px;
+    margin: 0 auto;
+}
+.member-quote h2 {
+	font-size: 22px;
+	line-height: 30px;
+}
+.member-quote {
+	padding-top: 15px;
+}
+.quote-btn a, .offer-btn a {
+	height: 45px;
+	width: 180px;
+	font-size: 16px;
+	line-height: 45px;
+	font-weight: 500;
+}
+
+}
+@media screen and (max-width : 639px) {
+
+}
+@media screen and (max-width : 568px) {
+/* Login Form */
+section.login-form {
+	padding: 30px 0px;
+}
+.login-area {
+	padding: 30px 30px;
+	margin: 0px;
+	border: 2px solid #ddd;
+}
+.register-heading h3 span {
+	font-size: 22px;
+}
+
+.form-signin .form-control {
+	height: 40px;
+	margin-bottom: 15px;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-o-border-radius: 0px;
+	-ms-border-radius: 0px;
+}
+.btn-signin {
+	height: 48px;
+	font-size: 22px;
+	line-height: 18px;
+}
+
+/* End Login */
+
+}
+@media screen and (max-width :384px) {
+
+}
+@media only screen and (min-width:321px) and (max-width:480px) {
+body {
+overflow-x:hidden;	
+}
+
+.member-quote h2 {
+	font-size: 22px;
+	line-height: 30px;
+}
+.member-quote {
+	padding-top: 15px;
+}
+.quote-btn a, .offer-btn a {
+	height: 45px;
+	width: 180px;
+	font-size: 16px;
+	line-height: 45px;
+	font-weight: 500;
+}
+.bg-background {
+	padding: 30px 0px !important;
+}
+
+
+.pad-t30 {
+	padding-bottom: 20px;
+}
+
+.how-it-works, .deals {
+	padding: 20px 0px;
+}
+.connect-social h2, .title-block h2 {
+	font-size: 22px;
+	font-weight: 500;
+}
+.how-it-works .title-block p, .deals .title-block p, .description p {
+	font-size: 16px;
+	line-height: 1.4em;
+	text-align: justify;
+}
+.description h5 {
+	font-size: 22px;
+}
+.how-it-works .title-block, .deals .title-block {
+	padding-bottom: 15px;
+}
+.icon-box {
+	width: 100px;
+	height: 100px;
+	padding: 16px;
+}
+
+.details-text {
+	padding-top: 25px;
+}
+.quote-btn {
+	margin-top: 20px;
+}
+.details-text h6 {
+	font-size: 16px;
+	font-weight: 500;
+}
+.title-block p br {
+	display: none;
+}
+
+.description {
+	text-align: center;
+	padding-bottom: 15px;
+}
+.forum-bg h2 {
+	top: 28%;
+	left: 20%;
+	font-size: 30px;
+}
+.connect-social {
+	padding: 30px 0px;
+}
+.connect-social p br {
+	display: none;
+}
+.connect-social p {
+	line-height: 1.6em;
+	font-size: 16px;
+	text-align: justify;
+}
+.outline-img li {
+	margin-left: 10px;
+}
+.social-button {
+	padding-top: 20px;
+}
+.outline-img li a img {
+	width: 48px;
+}
+.custom-social li span {
+	font-size: 16px;
+}
+footer {
+	padding: 30px 0px;
+}
+.footer-link ul li a, footer p, .copy-right p {
+	font-size: 16px;
+	line-height: 1.6em;
+}
+.footer-about {
+	padding-bottom: 15px;
+}
+.footer-link {
+	padding-bottom: 15px;
+}
+.copy-right {
+	padding: 10px 0px;
+	background: #ebebeb;
+}
+
+.profile-pic {
+	height: 224px;
+}
+.leader-description h2 {
+	font-size: 22px;
+}
+.leader-profile .profile-pic img {
+	height: 180px;
+}
+.leader-description {
+	padding: 40px 0px 0px 0;
+}
+.btn-profile {
+	padding: 4px 6px;
+	margin-right: 0;
+	font-size: 12px;
+}
+
+.forum-page .forum-left-heading, .forum-page .forum-right-heading {
+	font-size: 13px;
+}
+.forum-right-heading {
+	padding-right: 18px;
+}
+
+}
+
+
+@media screen and (max-width : 320px) {
+header {
+	padding: 20px 0px;
+}
+.middle-nav .list-inline li a {
+	font-size: 12px;
+}
+
+.navbar-toggle {
+margin-right:0px;	
+}
+
+.bg-background {
+	padding: 30px 0px !important;
+}
+
+
+.member-quote h2 {
+	font-size: 22px;
+	line-height: 30px;
+}
+.member-quote {
+	padding-top: 15px;
+}
+.quote-btn a, .offer-btn a {
+	height: 45px;
+	width: 180px;
+	font-size: 16px;
+	line-height: 45px;
+	font-weight: 500;
+}
+
+.pad-t30 {
+	padding-bottom: 20px;
+}
+
+section.home-welcome {
+	height: 530px !important;
+}
+.how-it-works, .deals {
+	padding: 20px 0px;
+}
+.connect-social h2, .title-block h2 {
+	font-size: 22px;
+	font-weight: 500;
+}
+.how-it-works .title-block p, .deals .title-block p, .description p {
+	font-size: 16px;
+	line-height: 1.4em;
+	text-align: justify;
+}
+.description h5 {
+	font-size: 22px;
+}
+.how-it-works .title-block, .deals .title-block {
+	padding-bottom: 15px;
+}
+.icon-box {
+	width: 100px;
+	height: 100px;
+	padding: 16px;
+}
+
+.details-text {
+	padding-top: 25px;
+}
+.quote-btn {
+	margin-top: 20px;
+}
+.details-text h6 {
+	font-size: 16px;
+	font-weight: 500;
+}
+.title-block p br {
+	display: none;
+}
+
+.description {
+	text-align: center;
+	padding-bottom: 15px;
+}
+.forum-bg h2 {
+	top: 35%;
+	left: 20%;
+	font-size: 22px;
+}
+.connect-social {
+	padding: 30px 0px;
+}
+.connect-social p br {
+	display: none;
+}
+.connect-social p {
+	line-height: 1.6em;
+	font-size: 16px;
+	text-align: justify;
+}
+.outline-img li {
+	margin-left:0;
+}
+.social-button {
+	padding-top: 20px;
+}
+.outline-img li a img {
+    width: 32px;
+}
+.custom-social li span {
+	font-size: 13px;
+}
+
+footer {
+	padding: 30px 0px;
+}
+.footer-link ul li a, footer p, .copy-right p {
+	font-size: 16px;
+	line-height: 1.6em;
+}
+.footer-about {
+	padding-bottom: 15px;
+}
+.footer-link {
+	padding-bottom: 15px;
+}
+.copy-right {
+	padding: 10px 0px;
+	background: #ebebeb;
+}
+
+.icon-block {
+	width: 100% !important;
+	float: none !important;
+}
+
+.nav-tabs > li > a, .nav-tabs > li.active > a {
+	font-size: 13px;
+	padding: 0 2px;
+	text-align: center;
+}
+.nav-tabs > li {
+    float: none;
+}
+.recent-post {
+	padding: 15px 0px;
+	background: #fafafa;
+}
+.top-links ul li, .top-links ul li a {
+	font-size: 12px;
+
+}
+/* Profile Page */
+.profile-page .media-left {
+	display: block;
+	padding-right:0px;
+}
+
+.profile-pic {
+	display: table;
+}
+.profile-pic .plan-name {
+	bottom: 15px;
+}
+.profile-pic .plan-name h6 {
+	font-size: 18px;
+}
+.leader-profile .profile-pic img {
+width:100%;
+height:100%;
+
+}
+.leader-description {
+	padding: 20px 0px 0px 0px;
+}
+	.position {
+
+	padding-bottom: 22px;
+
+}
+.btn-profile {
+	padding: 6px 11px;
+	color: #fff;
+	font-size: 13px;
+	margin-right:0px;
+}
+.leader-description h2 {
+	font-size: 22px;
+}
+.support-pic .support-name {
+	width: 100%;
+}
+.support-pic {
+	display: table;
+}
+.load-more {
+	margin-top: 15px !important;
+	margin-bottom: 25px !important;
+}
+/* End Profile */
+
+.forum-page .forum-left-heading, .forum-page .forum-right-heading {
+	font-size: 13px;
+}
+.forum-right-heading {
+	padding-right: 18px;
+}
+.pagination > li > a, .pagination > li > span, .pagination > .disabled > a, .pagination > .disabled > a:focus, .pagination > .disabled > a:hover, .pagination > .disabled > span, .pagination > .disabled > span:focus, .pagination > .disabled > span:hover {
+	padding: 8px;
+}
+.page-nation .pagination {
+	margin: 30px 0px 0px;
+	float: none !important;
+}
+}
+
+@media screen and (max-width : 767px) {
+	
+	header {
+	padding: 25px 0px;
+}
+.hide-mobile {
+		display:none !important;
+	}
+	.moblie-login {
+		display:block !important;
+	}
+.top-links {
+	text-align:left;
+}
+.top-links ul li:last-child {
+	border: 0;
+}
+.middle-nav {
+	padding: 25px 0px;
+}
+.navbar-form .input-group {
+	width: 100%;
+
+}
+header .form-control, header .btn {
+	border: 0px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+	
+	#srch-term {
+	border: 0px;
+	border-bottom: 1px solid #ccc;
+}
+.navbar-toggle {
+margin-right:0px;	
+}
+.navbar-default .navbar-toggle {
+	border-color: #250386;
+	border-radius: 0px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #250383;
+}
+navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: #250386;
+}
+.glyphicon {
+	top: 3px;
+}
+.sticky .navbar-form {
+	display: none;
+}
+
+
+.icon-block {
+	width: 46%;
+	float: left;
+	margin-bottom: 30px;
+}
+
+.how-it-works, .deals {
+	padding: 20px 0px;
+}
+.connect-social h2, .title-block h2 {
+	font-size: 22px;
+	font-weight: 500;
+}
+.how-it-works .title-block p, .deals .title-block p, .description p {
+	font-size: 16px;
+	line-height: 1.4em;
+	text-align: justify;
+}
+.description h5 {
+	font-size: 22px;
+}
+.how-it-works .title-block, .deals .title-block {
+	padding-bottom: 15px;
+}
+.icon-box {
+	width: 100px;
+	height: 100px;
+	padding: 16px;
+}
+
+.details-text {
+	padding-top: 25px;
+}
+.quote-btn {
+	margin-top: 20px;
+}
+.details-text h6 {
+	font-size: 16px;
+	font-weight: 500;
+}
+.title-block p br {
+	display: none;
+}
+
+.description {
+	text-align: center;
+	padding-bottom: 15px;
+}
+.forum-bg h2 {
+	top: 35%;
+	left: 20%;
+	font-size: 22px;
+}
+.connect-social {
+	padding: 30px 0px;
+}
+.connect-social p br {
+	display: none;
+}
+.connect-social p {
+	line-height: 1.6em;
+	font-size: 16px;
+	text-align: justify;
+}
+.outline-img li {
+	margin-left:0;
+}
+.social-button {
+	padding-top: 20px;
+}
+.outline-img li a img {
+    width: 32px;
+}
+.custom-social li span {
+	font-size: 13px;
+}
+
+footer {
+	padding: 30px 0px;
+}
+.footer-link ul li a, footer p, .copy-right p {
+	font-size: 16px;
+	line-height: 1.6em;
+}
+.footer-about {
+	padding-bottom: 15px;
+}
+.footer-link {
+	padding-bottom: 15px;
+}
+.copy-right {
+	padding: 10px 0px;
+	background: #ebebeb;
+}
+
+.login-heading h1 {
+	font-size: 21px;
+	line-height: 48px;
+}
+
+.account-heading h3 {
+	color: #163651;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
+.login-link a, .bottom-login a {
+	font-size: 13px;
+}
+
+.nav-tabs > li > a:hover {
+border-color:transparent;	
+}
+.free {
+	padding: 28px 0px;
+}
+.rule-list ul li {
+	line-height: 26px;
+
+}
+.membership {
+	margin-bottom: 30px;
+	padding-bottom:50px;
+}
+.member-btn {
+	padding-top: 20px;
+}
+.table-responsive {
+
+	border: 0px solid #ddd;
+} 
+.news-block img {
+	width: 100%;
+}
+.slide .item img {
+	width: 100%;
+}
+
+}
+
+@media only screen and (min-width:640px) and (max-width:736px) {
+
+
+.member-quote {
+	padding-top: 10px;
+	text-align: center;
+}
+.member-quote h2 {
+	line-height: 35px;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+	.navbar-brand h1 {
+	font-size: 15px;
+}
+
+.navbar-brand {
+	padding: 5px 9px 5px 0px;
+	font-size: 18px;
+
+}
+.login-area {
+	padding: 50px 30px;
+	margin: 30px 0;
+}
+.account-heading h3 {
+	color: #163651;
+	padding-bottom: 30px;
+}
+.checkbox input[type="checkbox"] {
+margin-top: 5px;	
+}
+.nav > li > a {
+	margin: 0px 10px;
+}
+.navbar-default .navbar-nav > li > a {
+	font-size: 12px;
+}
+.member-quote h2 {
+	font-size: 20px;
+}
+.member-quote {
+	padding-top: 25px;
+}
+.member-quote h2 {
+	line-height: 32px;
+}
+.quote-btn a {
+	height: 45px;
+	width: 220px;
+	font-size: 18px;
+	line-height: 45px;
+
+}
+section.home-welcome {
+	height: 430px;
+}
+.how-it-works, .deals {
+	padding: 30px 0px;
+}
+.icon-block {
+	float: left;
+	width: 50%;
+	margin-bottom: 45px;
+}
+.offer-btn a {
+	font-size: 18px;
+	line-height: 40px;
+	padding: 5px 30px;
+}
+.description h5 {
+	font-size: 17px;
+}
+.description p {
+	font-size:15px;
+	text-align: justify;
+}
+.connect-social h2, .title-block h2 {
+	font-size: 30px;
+}
+footer h3 {
+	font-size: 16px;
+}
+.footer-link ul li a, footer p, .copy-right p {
+	font-size: 14px;
+
+}
+.outline-img li a img {
+	width: 48px;
+}
+}
+
+@media screen and (min-width:992px) and (max-width:1199px)  {
+.navbar-default .navbar-nav > li > a {
+	font-size: 14px;
+}	
+.member-quote h2 {
+	font-size: 20px;
+}
+.member-quote {
+	padding-top: 25px;
+}
+.member-quote h2 {
+	line-height: 32px;
+}
+.quote-btn a {
+	height: 45px;
+	width: 220px;
+	font-size: 18px;
+	line-height: 45px;
+
+}
+}
+
+@media screen and (max-width:1200px)  {
+.bg-background {
+	padding: 60px 0px;
+}
+}
+
+@media screen and (max-width:1220px)  {
